@@ -35,6 +35,8 @@ nvm use
 
 ### Install dependencies
 
+Change into the src directory.
+
 The project is using npm, so you can run:
 
 ```
@@ -58,4 +60,12 @@ npm run start
 Starwars Bot Starting
 Luke Skywalker
 C-3PO
+```
+
+### Docker
+
+```
+npm run docker:build
+npm run docker:push
+npm run docker:up
 ```

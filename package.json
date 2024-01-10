@@ -12,5 +12,8 @@
   "dependencies": {
     "@types/superagent": "^8.1.1",
     "superagent": "^8.1.2"
+  },
+  "scripts": {
+    "start": "ts-node bot.ts"
   }
 }

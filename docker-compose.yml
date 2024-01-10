@@ -1,0 +1,4 @@
+version: "3.9"
+services:
+  starwars-bot:
+    image: fullsnacktestengineer/starwars-bot
